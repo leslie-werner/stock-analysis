@@ -7,7 +7,7 @@
   In this analysis we wanted to help Steve look at datasets that coved the entire stock market for 2017 and 2018. Using this information, he wanted to help his parents be able to pick stocks that could be beneifical in the long run. Using code we had developed throughout the module, we refractored code to be able to analyze the dataset in a shorter amount of time. 
   
 ## Analysis
-'Using images and examples of your code, compare the stock performance between 2017 and 2018. As well as the execution times of the original script and the refactored script.
+
 ### Results
 When looking at stock performaces between 2017 and 2018, we can see that 2017 was a more successful year for stocks compared to 2018. 
 In both 2017 and 2018, we can see that ENPH and RUN remained in the positive percent returns while TERP, was unsuccessful in both years. With the reuslts obtained, it is recommened that Steves' parents invest in stocks with positive returns for both years if a less risky approach is wanted. 
@@ -74,11 +74,19 @@ Finally, we had to loop through the array to have the outputs on the correct wor
            Cells(4 + j, 3).Value = tickerEndingPrices(tickerIndex) / tickerStartingPrices(tickerIndex) - 1
 
 #### 2017 Code Run Time
+When running this code, it displays that the run time is approximately 0.0918 seconds, which is less time than when we used the original code (approximately 0.496 seconds).
+
 <img width="266" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/65638310/147577498-b76f4114-6c47-4111-8552-1956d5ab7d87.png">   
 
-### 2018 Code Run Time
+#### 2018 Code Run Time
+When running this code, it displays that the run time is approximately 0.0938 seconds, which is less time than when we used the original code (approximately 0.484 seconds).
+
 <img width="265" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/65638310/147577603-0d7761ad-ec99-45bc-b664-13a6eef0c861.png">
 
-### Challenges and Difficulties
+## Challenges and Difficulties
 
-## 
+### Advantages and Disadvantages of Refactoring Code
+ Using reactoring code is beneifical because it not only helps save time for running a command but it also helps use less memory. Another advantage is that it can help create more logic to code making it easier to read in the future. Disadvantages can be that it could potentially be very time consuming. One little mistake can cause the entire code to not work. Essentially refractoring could be a potential risk to the code if not careful.
+ 
+### How pros and cons Apply to Refactoring Original VBA Script
+The pros of apply refactoring to the original VBA script, is that we did in fact make the process faster. A con to refactoring the VBA script was that it was very time consuming and required a good amount of debugging multiple times to work correctly.  
