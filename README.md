@@ -1,15 +1,16 @@
 # VBA Challenge
 VBA Stock Analysis
 
-## Purpose
+## Overview
+### Purpose
   In this analysis we wanted to help Steve look at datasets that coved the entire stock market for 2017 and 2018. Using this information, he wanted to help his parents be able to pick stocks that could be beneifical in the long run. Using the code we had developed throughout the module, we will be refractoring the code to and looking at the advantages and disadvantages of refactoring. 
   
-## Analysis
-
 ### Results
+
+#### Analysis
 When looking at stock performaces between 2017 and 2018, we can see that 2017 was a more successful year for stocks compared to 2018. 
 In both 2017 and 2018, we can see that ENPH and RUN remained in the positive percent returns while TERP, was unsuccessful in both years. With the reuslts obtained, it is recommened that Steves' parents invest in stocks with positive returns for both years if a less risky approach is wanted. 
-### Refactoring The Code
+#### Refactoring The Code
 In this challenge we wanted to make the code we developed into a more efficent code that would reduce both memory and time to run.
 
 First we had to make a ticker Index that we could use in different arrays.
@@ -81,7 +82,7 @@ When running this code, it displays that the run time is approximately 0.0938 se
 
 <img width="265" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/65638310/147577603-0d7761ad-ec99-45bc-b664-13a6eef0c861.png">
 
-## Challenges and Difficulties
+## Summary
 
 ### Advantages and Disadvantages of Refactoring Code
  Using reactoring code is beneifical because it not only helps save time for running a command but it also helps use less memory. Another advantage is that it can help create more logic to code, making it easier to read in the future. Disadvantages can be that it could potentially be very time consuming. One little mistake can cause the entire code to not work. Essentially refractoring could be a potential risk to the code if not careful.
