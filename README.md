@@ -2,7 +2,7 @@
 VBA Stock Analysis
 
 ## Purpose
-  In this analysis we wanted to help Steve look at datasets that coved the entire stock market for 2017 and 2018. Using this information, he wanted to help his parents be able to pick stocks that could be beneifical in the long run. Using code we had developed throughout the module, we refractored code to be able to analyze the dataset in a shorter amount of time. 
+  In this analysis we wanted to help Steve look at datasets that coved the entire stock market for 2017 and 2018. Using this information, he wanted to help his parents be able to pick stocks that could be beneifical in the long run. Using the code we had developed throughout the module, we will be refractoring the code to and looking at the advantages and disadvantages of refactoring. 
   
 ## Analysis
 
@@ -84,7 +84,7 @@ When running this code, it displays that the run time is approximately 0.0938 se
 ## Challenges and Difficulties
 
 ### Advantages and Disadvantages of Refactoring Code
- Using reactoring code is beneifical because it not only helps save time for running a command but it also helps use less memory. Another advantage is that it can help create more logic to code making it easier to read in the future. Disadvantages can be that it could potentially be very time consuming. One little mistake can cause the entire code to not work. Essentially refractoring could be a potential risk to the code if not careful.
+ Using reactoring code is beneifical because it not only helps save time for running a command but it also helps use less memory. Another advantage is that it can help create more logic to code, making it easier to read in the future. Disadvantages can be that it could potentially be very time consuming. One little mistake can cause the entire code to not work. Essentially refractoring could be a potential risk to the code if not careful.
  
 ### How pros and cons Apply to Refactoring Original VBA Script
-The pros of apply refactoring to the original VBA script, is that we did in fact make the process faster. Another pro was that we were able to make the code more efficient without having to repeat lines of codes for different arrays. A con to refactoring the VBA script was that it was very time consuming. In refacotring the original script, there were functions that did not work as planned and required a good amount of debugging to work correctly.  
+The pros of apply refactoring to the original VBA script, is that we did in fact make the process faster. For example, the time to run with the original code was around 0.496 seconds for 2017 compared to the new code that was 0.0918 seconds. Another pro was that we were able to make the code more efficient without having to repeat lines of codes for different arrays. A con to refactoring the VBA script was that it was very time consuming. In refacotring the original script, there were functions that did not work as planned and required a good amount of debugging to work correctly.  
