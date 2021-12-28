@@ -1,9 +1,7 @@
 # VBA Challenge
-# VBA Stock Analysis
+VBA Stock Analysis
 
-## Overview of Project
-
-### Purpose
+## Purpose
   In this analysis we wanted to help Steve look at datasets that coved the entire stock market for 2017 and 2018. Using this information, he wanted to help his parents be able to pick stocks that could be beneifical in the long run. Using code we had developed throughout the module, we refractored code to be able to analyze the dataset in a shorter amount of time. 
   
 ## Analysis
