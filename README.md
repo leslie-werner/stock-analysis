@@ -3,7 +3,7 @@ VBA Stock Analysis
 
 ## Overview
 ### Purpose
-  In this analysis we wanted to help Steve look at datasets that coved the entire stock market for 2017 and 2018. Using this information, he wanted to help his parents be able to pick stocks that could be beneifical in the long run. Using the code we had developed throughout the module, we will be refractoring the code to and looking at the advantages and disadvantages of refactoring. 
+  In this analysis we wanted to help Steve look at datasets that covered the entire stock market for 2017 and 2018. This information, would be used to help his parents be able to pick stocks that would be beneifical in the long run. Using the code we developed throughout the module, we will be refractoring the code, along with examining the advantages and disadvantages of refactoring. 
   
 ### Results
 
